@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/almas-desnudas-y-rotas/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Almas desnudas y rotas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/almas-desnudas-y-rotas/) |
+| **Get License** | [Obtain a Music License for Almas desnudas y rotas](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/almas-desnudas-y-rotas/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Baby, la noche está pidiendo que te acerques más
+> Esta tensión en el aire ya no se puede ocultar
+> Con esa mirada me dices lo que quieres probar
+> Almas desnudas y rotas, listas para chocar
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
